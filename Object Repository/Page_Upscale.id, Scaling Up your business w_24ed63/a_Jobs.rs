@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Jobs</name>
+   <tag></tag>
+   <elementGuidId>f5a11756-3a2d-4eda-9d3e-9077ee181262</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Jobs')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.m > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9301339c-18aa-4d5c-aa21-782326150f26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://upscale.id/jobs</value>
+      <webElementGuid>4f5bb7e9-4a04-4409-be18-31a05aea9851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jobs</value>
+      <webElementGuid>cbc741e0-b74f-499c-a865-17b155f4f3b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/nav[@class=&quot;menu-classic menu-fixed menu-one-page align-right menu-transparent light&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;menu-cnt&quot;]/ul[1]/li[@class=&quot;m&quot;]/a[1]</value>
+      <webElementGuid>c9200551-3970-41d3-b068-e4888cb79eb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Jobs')]</value>
+      <webElementGuid>9bd25285-253d-4670-ab07-cc82b899eb74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Talent'])[1]/following::a[1]</value>
+      <webElementGuid>886ab6b7-e915-42bf-9b53-4ce822e02d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Business'])[1]/following::a[2]</value>
+      <webElementGuid>424392a7-5f44-45a7-ab38-797a8fd6d987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F.A.Q'])[1]/preceding::a[1]</value>
+      <webElementGuid>aa2c96c3-8106-4f25-b5a1-2573be002a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jobs']/parent::*</value>
+      <webElementGuid>70abeba9-1fbd-4a42-aa82-136e7f4bebfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://upscale.id/jobs')]</value>
+      <webElementGuid>cda535e6-1a66-4c03-ae18-ee339482532b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>4ef2d036-e74e-47c8-aae1-117ae11c96fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://upscale.id/jobs' and (text() = 'Jobs' or . = 'Jobs')]</value>
+      <webElementGuid>615ae11c-dde3-4ee8-8206-15ba568ffb9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

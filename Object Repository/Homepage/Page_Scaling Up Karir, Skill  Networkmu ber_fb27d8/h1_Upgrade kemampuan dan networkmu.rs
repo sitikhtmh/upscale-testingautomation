@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Upgrade kemampuan dan networkmu</name>
+   <tag></tag>
+   <elementGuidId>11a9bc7b-f305-4802-a04e-c7e9b1485853</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='desc-talent']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>d1613ad0-19a7-440d-816e-76ed398cffb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upgrade kemampuan dan networkmu.</value>
+      <webElementGuid>bfb59ea0-7610-47f7-b2fa-b4dc950440b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desc-talent&quot;)/h1[1]</value>
+      <webElementGuid>f8fa8777-e279-4033-8822-71f590c3b0e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='desc-talent']/h1</value>
+      <webElementGuid>c36b8e5a-249d-40c0-95c5-14893d21b6c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::h1[1]</value>
+      <webElementGuid>a789153c-aa92-49dd-aafd-e11cc143c607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karir di perusahaan idaman'])[1]/preceding::h1[1]</value>
+      <webElementGuid>aae28aa6-1041-4f29-aa6d-af8da3d32694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upgrade kemampuan dan networkmu']/parent::*</value>
+      <webElementGuid>1e967a05-405e-4246-8238-3564370b66ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>0c6c3b33-1549-4d80-ae28-69c09997f111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Upgrade kemampuan dan networkmu.' or . = 'Upgrade kemampuan dan networkmu.')]</value>
+      <webElementGuid>b70aedb3-2b9d-4d05-82c8-f2fe7fa34e01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

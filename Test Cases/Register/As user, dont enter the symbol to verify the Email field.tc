@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As user, dont enter the symbol to verify the Email field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3057e5a0-810d-40ac-be05-df34b5f5ee13</testCaseGuid>
+</TestCaseEntity>
